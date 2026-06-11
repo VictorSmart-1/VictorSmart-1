@@ -30,7 +30,7 @@ I build analytical solutions, teach and mentor professionals.
   * SQL
   
 ## Completed Projects
-1. [Power BI Projects](https://github.com/HopeVictor/PowerBI_Projects)
+1. [Power BI Projects](https://github.com/VictorSmart-1/Power-BI-Projects)
 2. [Excel Projects](https://github.com/HopeVictor/Projects)
 3. [SQL Projects](https://github.com/HopeVictor/SQL-Projects)
 4. [Tableau Projects](https://github.com/HopeVictor/SQL-Projects)
